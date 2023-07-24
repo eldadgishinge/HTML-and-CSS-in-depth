@@ -1,0 +1,25 @@
+.container {
+    display: inline-flex;
+    flex: 1 1 300px;
+    border-radius: 10px;
+    overflow: hidden;
+    border: 1px solid #ccc;
+}
+
+.icon {
+    padding: 0rem;
+}
+
+.searchbox {
+    border: 0;
+    flex: 1px;
+
+}
+
+#submitbox{
+    color: white;
+    background-color: blue;
+    border: 0;
+    padding: 2.3rem;
+    border-radius: 8px;
+}
